@@ -1,3 +1,13 @@
 .intro {
   display: block;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+.row {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
 }
